@@ -1,4 +1,4 @@
-
+<?php
 function pdetails_meta_box() {
 	add_meta_box('pdetails','Personal Details','pdetails_callback','post');
 }
